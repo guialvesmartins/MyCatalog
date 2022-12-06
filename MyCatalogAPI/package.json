@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "select2": "^4.1.0-rc.0",
+    "ui-select": "^0.19.8"
+  }
+}
